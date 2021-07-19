@@ -1,0 +1,34 @@
+version: "2"
+
+services:
+
+  samba:
+    image: dperson/samba:rpi
+    restart: unless-stopped
+    command: '-u "respeaker;respeaker" -s "media;/media;yes;no" -p -S'
+    stdin_open: true
+    tty: true
+    environment:
+      - TZ=America/Lima
+      - PUID=1000
+      - PGID=1000
+      - NMBD=yes
+      - USER=respeaker;respeaker
+      - WORKGROUP=WORKGROUP
+      - RECYCLE=false
+      - GLOBAL=client min protocol = NT1
+    network_mode: host
+    ports:
+      - 137:137
+      - 138:138
+      - 139:139
+      - 445:445
+    expose:
+      - 445
+      - 139
+      - 137
+      - 138
+    volumes:
+      - /usr/share/zoneinfo/America/Lima:/etc/localtime
+      - /home/respeaker/mnt:/media
+    hostname: v2
