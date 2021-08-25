@@ -1,0 +1,13 @@
+version: "2"
+
+services:
+
+  filebrowser:
+    image: filebrowser/filebrowser
+    expose:
+      - 8099
+    ports:
+      - 8099:80
+    volumes:
+      - /home/respeaker/mnt:/srv
+    restart: unless-stopped

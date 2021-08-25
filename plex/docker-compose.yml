@@ -1,0 +1,16 @@
+version: "2"
+
+services:
+
+  plex:
+    image: jaymoulin/plex
+    expose:
+      - 32400
+      - 33400
+    hostname: v2
+    volumes:
+      - ./pms:/root/Library/Application Support/Plex Media Server
+      - /home/respeaker/mnt:/storage
+      - ./tmp:/tmp
+    restart: unless-stopped
+    network_mode: host
