@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="IPE.pe">
+        <display-name>Canal IPe</display-name>
+        <icon src="https://graph.facebook.com/canalipe/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="BethelTV.pe">
+        <display-name>Bethel Televisión</display-name>
+        <icon src="https://graph.facebook.com/betheltv/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="UCI.pe">
+        <display-name>UCI</display-name>
+        <icon src="https://graph.facebook.com/uncanalinteligente/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="ExitosaTV.pe">
+        <display-name>Exitosa Noticias</display-name>
+        <icon src="https://graph.facebook.com/Exitosanoticias/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="ATV.pe">
+        <display-name>ATV</display-name>
+        <icon src="https://graph.facebook.com/ATV.pe/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="ATVPlus.pe">
+        <display-name>ATV+</display-name>
+        <icon src="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="ATVSur.pe">
+        <display-name>ATV Sur</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_atv-sur_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="BYUTV.us">
+        <display-name>BYU TV</display-name>
+        <icon src="https://cdn.tvpassport.com/image/station/100x100/byutv-19.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="CityTV.co">
+        <display-name>City TV</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_citytv_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="DWDeutschPlus.de">
+        <display-name>DW Deutsch+</display-name>
+        <icon src="https://i.imgur.com/A1xzjOI.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="GlobalTV.pe">
+        <display-name>Global TV</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_nex-tv_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="Latele.pe">
+        <display-name>Latele</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_la-tele_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="Latina.pe">
+        <display-name>Latina</display-name>
+        <icon src="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="MasChicEstadosUnidos.us">
+        <display-name>Más Chic Estados Unidos</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_mas-chic_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="MiGenteTV.co">
+        <display-name>Mi Gente TV</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_mi-gente_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="NickelodeonLatinAmerica.us">
+        <display-name>Nickelodeon Sur</display-name>
+        <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="PAT.bo">
+        <display-name>PAT</display-name>
+        <icon src="https://comteco.com.bo/img/upload/canales/fH1k23.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="PanamericanaTV.pe">
+        <display-name>Panamericana Televisión</display-name>
+        <icon src="https://graph.facebook.com/panamericana.pe/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="RumbaTV.co">
+        <display-name>Rumba TV</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_rumba-tv_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="TVPeru.pe">
+        <display-name>TV Perú</display-name>
+        <icon src="https://graph.facebook.com/TVPeruOficial/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="TVPeruInternacional.pe">
+        <display-name>TVPerú Internacional</display-name>
+        <icon src="https://graph.facebook.com/tvperuinternacional/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="TVPeruNoticias.pe">
+        <display-name>TVPerú Noticias</display-name>
+        <icon src="https://graph.facebook.com/noticias.tvperu/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="Telefuturo.py">
+        <display-name>Telefuturo</display-name>
+        <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telefuturo-mediano.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="UnitelSantaCruz.bo">
+        <display-name>Unitel Santa Cruz</display-name>
+        <icon src="https://cdn.mitvstatic.com/channels/pe_unitel_m.png" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="WillaxTV.pe">
+        <display-name>Willax TV</display-name>
+        <icon src="https://graph.facebook.com/willaxtv/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="PBO.pe">
+        <display-name>PBO</display-name>
+        <icon src="https://graph.facebook.com/PBOPeru/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+    <channel id="TopLatino.pe">
+        <display-name>Top Latino</display-name>
+        <icon src="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" />
+        <url>https://mi.tv</url>
+    </channel>
+</tv>
