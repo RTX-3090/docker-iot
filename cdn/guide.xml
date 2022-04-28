@@ -135,4 +135,1718 @@
         <icon src="https://graph.facebook.com/toplatinotv/picture?width=320&height=320" />
         <url>https://mi.tv</url>
     </channel>
+    <programme start="20220428120000" stop="20220428123000" channel="IPE.tv">
+        <title lang="es">Colorico</title>
+        <desc lang="es">Deja volar tu imaginación con juegos, historias, magia y arte junto con Nico</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-colorico.jpg" />
+    </programme>
+    <programme start="20220428123000" stop="20220428013000" channel="IPE.tv">
+        <title lang="es">Chicos IPe Preescolar</title>
+        <desc lang="es">Un mundo lleno de aventuras, imaginación, historias y muchísima diversión. Este espacio es para ti. Explora, descubre lugares nuevos, canta, baila, juega y disfruta de ser parte de Chicos IPe.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428013000" stop="20220428020000" channel="IPE.tv">
+        <title lang="es">Asquerosamente Rico</title>
+        <desc lang="es">Marta la rata y Mirta la cucaracha buscan redimirse de la mala fama que tienen. Con la ayuda de su único empleado humano, Giovanni, preparan recetas utilizando ingredientes asquerosamente nutritivos y deliciosos: ¡Están para chuparse las patas!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna_asquerosamente_rico.jpg" />
+    </programme>
+    <programme start="20220428020000" stop="20220428023000" channel="IPE.tv">
+        <title lang="es">Siesta Z</title>
+        <desc lang="es">A Siesta le gusta mucho leer, pero de pronto y sin poder evitarlo: se queda dormida. Sus sueños resultan ser las más insólitas y divertidas adaptaciones de los clásicos de la literatura. Desde los griegos hasta Shakespeare, desde las aventuras de Jack London hasta los mundos más misteriosos. Con Siesta, los clásicos nunca fueron tan divertidos.</desc>
+        <icon src="http://www.canalipe.tv/sites/default/files/web/app/img_interna/banner_app_720x400_siesta-z.jpg" />
+    </programme>
+    <programme start="20220428023000" stop="20220428030000" channel="IPE.tv">
+        <title lang="es">Animal Fan Pedia</title>
+        <desc lang="es">Desde las profundidades del océano hasta el corazón de África y más allá de las fronteras del mundo habitado, conoceremos a los animales más interesantes, únicos y curiosos, aprendiendo sobre sus hábitats, ecosistemas, procedencia geográfica y su entorno.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/animal_fan_pedia_app2.jpg" />
+    </programme>
+    <programme start="20220428030000" stop="20220428033000" channel="IPE.tv">
+        <title lang="es">Los Cuentos de Chaski Internacional</title>
+        <desc lang="es">Los Cuentos de Chaski Internacional</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-chaski-bicentenario.jpg" />
+    </programme>
+    <programme start="20220428033000" stop="20220428040000" channel="IPE.tv">
+        <title lang="es">Pequeña Galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-galaxia.png" />
+    </programme>
+    <programme start="20220428040000" stop="20220428043000" channel="IPE.tv">
+        <title lang="es">Nada nos para</title>
+        <desc lang="es">Mario nos muestra en cada capítulo un nuevo deporte o disciplina física, a través de Nada nos para, que busca promover la diversión de moverse.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-nadanospara.png" />
+    </programme>
+    <programme start="20220428043000" stop="20220428050000" channel="IPE.tv">
+        <title lang="es">Mi hermana y sus libros</title>
+        <desc lang="es">¡Llegó el momento de descubrir más historias!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-mi-hermana-y-sus-libros.jpg" />
+    </programme>
+    <programme start="20220428050000" stop="20220428053000" channel="IPE.tv">
+        <title lang="es">Acceso público</title>
+        <desc lang="es">Un nuevo espacio, magazine documental, con dos conductores llenos de curiosidad y muchas ganas de generar cambios en nuestro país.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-acceso-publico.jpg" />
+    </programme>
+    <programme start="20220428053000" stop="20220428060000" channel="IPE.tv">
+        <title lang="es">Ciencia es Esencia</title>
+        <desc lang="es">Científicos peruanos nos explican sus descubrimientos y las causas detrás de los fenómenos naturales de una manera sencilla y entretenida.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/cienciaenesencia-app2.jpg" />
+    </programme>
+    <programme start="20220428060000" stop="20220428063000" channel="IPE.tv">
+        <title lang="es">Colorico</title>
+        <desc lang="es">Deja volar tu imaginación con juegos, historias, magia y arte junto con Nico</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-colorico.jpg" />
+    </programme>
+    <programme start="20220428063000" stop="20220428073000" channel="IPE.tv">
+        <title lang="es">Chicos IPe Preescolar</title>
+        <desc lang="es">Un mundo lleno de aventuras, imaginación, historias y muchísima diversión. Este espacio es para ti. Explora, descubre lugares nuevos, canta, baila, juega y disfruta de ser parte de Chicos IPe.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428073000" stop="20220428080000" channel="IPE.tv">
+        <title lang="es">Asquerosamente Rico</title>
+        <desc lang="es">Marta la rata y Mirta la cucaracha buscan redimirse de la mala fama que tienen. Con la ayuda de su único empleado humano, Giovanni, preparan recetas utilizando ingredientes asquerosamente nutritivos y deliciosos: ¡Están para chuparse las patas!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna_asquerosamente_rico.jpg" />
+    </programme>
+    <programme start="20220428080000" stop="20220428083000" channel="IPE.tv">
+        <title lang="es">Atrévete a escalar</title>
+        <desc lang="es">Aoi y Hinata son amigas desde la infancia. Aoi prefiere pasar tiempo en casa y tiene temor a las alturas mientras que Hinata ama las actividades al aire libre. Juntas deciden escalar una montaña para ver el amanecer que alguna vez disfrutaron cuando eran más pequeñas.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428083000" stop="20220428090000" channel="IPE.tv">
+        <title lang="es">Animal Fan Pedia</title>
+        <desc lang="es">Desde las profundidades del océano hasta el corazón de África y más allá de las fronteras del mundo habitado, conoceremos a los animales más interesantes, únicos y curiosos, aprendiendo sobre sus hábitats, ecosistemas, procedencia geográfica y su entorno.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/animal_fan_pedia_app2.jpg" />
+    </programme>
+    <programme start="20220428090000" stop="20220428093000" channel="IPE.tv">
+        <title lang="es">Los Cuentos de Chaski Internacional</title>
+        <desc lang="es">Los Cuentos de Chaski Internacional</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-chaski-bicentenario.jpg" />
+    </programme>
+    <programme start="20220428093000" stop="20220428100000" channel="IPE.tv">
+        <title lang="es">Pequeña Galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-galaxia.png" />
+    </programme>
+    <programme start="20220428100000" stop="20220428113000" channel="IPE.tv">
+        <title lang="es">Aprendo en casa - Secundaria</title>
+        <desc lang="es">La escuela llega a tu casa.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/app2-secundarial-tvperu_0.jpg" />
+    </programme>
+    <programme start="20220428113000" stop="20220428120000" channel="IPE.tv">
+        <title lang="es">Aprendo en casa - Educación Básica Especial</title>
+        <desc lang="es">La escuela llega a tu casa.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/aprendoencasa-ebe-tvperu-app02.jpg" />
+    </programme>
+    <programme start="20220428120000" stop="20220428123000" channel="IPE.tv">
+        <title lang="es">Colorico</title>
+        <desc lang="es">Deja volar tu imaginación con juegos, historias, magia y arte junto con Nico</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-colorico.jpg" />
+    </programme>
+    <programme start="20220428123000" stop="20220428013000" channel="IPE.tv">
+        <title lang="es">Chicos IPe Preescolar</title>
+        <desc lang="es">Un mundo lleno de aventuras, imaginación, historias y muchísima diversión. Este espacio es para ti. Explora, descubre lugares nuevos, canta, baila, juega y disfruta de ser parte de Chicos IPe.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428013000" stop="20220428020000" channel="IPE.tv">
+        <title lang="es">Asquerosamente Rico</title>
+        <desc lang="es">Marta la rata y Mirta la cucaracha buscan redimirse de la mala fama que tienen. Con la ayuda de su único empleado humano, Giovanni, preparan recetas utilizando ingredientes asquerosamente nutritivos y deliciosos: ¡Están para chuparse las patas!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna_asquerosamente_rico.jpg" />
+    </programme>
+    <programme start="20220428020000" stop="20220428023000" channel="IPE.tv">
+        <title lang="es">Atrévete a escalar</title>
+        <desc lang="es">Aoi y Hinata son amigas desde la infancia. Aoi prefiere pasar tiempo en casa y tiene temor a las alturas mientras que Hinata ama las actividades al aire libre. Juntas deciden escalar una montaña para ver el amanecer que alguna vez disfrutaron cuando eran más pequeñas.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428023000" stop="20220428030000" channel="IPE.tv">
+        <title lang="es">Animal Fan Pedia</title>
+        <desc lang="es">Desde las profundidades del océano hasta el corazón de África y más allá de las fronteras del mundo habitado, conoceremos a los animales más interesantes, únicos y curiosos, aprendiendo sobre sus hábitats, ecosistemas, procedencia geográfica y su entorno.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/animal_fan_pedia_app2.jpg" />
+    </programme>
+    <programme start="20220428030000" stop="20220428033000" channel="IPE.tv">
+        <title lang="es">Los Cuentos de Chaski Internacional</title>
+        <desc lang="es">Los Cuentos de Chaski Internacional</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-chaski-bicentenario.jpg" />
+    </programme>
+    <programme start="20220428033000" stop="20220428040000" channel="IPE.tv">
+        <title lang="es">Pequeña Galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-galaxia.png" />
+    </programme>
+    <programme start="20220428040000" stop="20220428053000" channel="IPE.tv">
+        <title lang="es">Aprendo en casa - Secundaria</title>
+        <desc lang="es">La escuela llega a tu casa.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/app2-secundarial-tvperu_0.jpg" />
+    </programme>
+    <programme start="20220428053000" stop="20220428060000" channel="IPE.tv">
+        <title lang="es">Aprendo en casa - Educación Básica Especial</title>
+        <desc lang="es">La escuela llega a tu casa.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/aprendoencasa-ebe-tvperu-app02.jpg" />
+    </programme>
+    <programme start="20220428060000" stop="20220428063000" channel="IPE.tv">
+        <title lang="es">Colorico</title>
+        <desc lang="es">Deja volar tu imaginación con juegos, historias, magia y arte junto con Nico</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-colorico.jpg" />
+    </programme>
+    <programme start="20220428063000" stop="20220428073000" channel="IPE.tv">
+        <title lang="es">Chicos IPe Preescolar</title>
+        <desc lang="es">Un mundo lleno de aventuras, imaginación, historias y muchísima diversión. Este espacio es para ti. Explora, descubre lugares nuevos, canta, baila, juega y disfruta de ser parte de Chicos IPe.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428073000" stop="20220428080000" channel="IPE.tv">
+        <title lang="es">Asquerosamente Rico</title>
+        <desc lang="es">Marta la rata y Mirta la cucaracha buscan redimirse de la mala fama que tienen. Con la ayuda de su único empleado humano, Giovanni, preparan recetas utilizando ingredientes asquerosamente nutritivos y deliciosos: ¡Están para chuparse las patas!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna_asquerosamente_rico.jpg" />
+    </programme>
+    <programme start="20220428080000" stop="20220428083000" channel="IPE.tv">
+        <title lang="es">Atrévete a escalar</title>
+        <desc lang="es">Aoi y Hinata son amigas desde la infancia. Aoi prefiere pasar tiempo en casa y tiene temor a las alturas mientras que Hinata ama las actividades al aire libre. Juntas deciden escalar una montaña para ver el amanecer que alguna vez disfrutaron cuando eran más pequeñas.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/default-horario.jpg" />
+    </programme>
+    <programme start="20220428083000" stop="20220428090000" channel="IPE.tv">
+        <title lang="es">Animal Fan Pedia</title>
+        <desc lang="es">Desde las profundidades del océano hasta el corazón de África y más allá de las fronteras del mundo habitado, conoceremos a los animales más interesantes, únicos y curiosos, aprendiendo sobre sus hábitats, ecosistemas, procedencia geográfica y su entorno.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/animal_fan_pedia_app2.jpg" />
+    </programme>
+    <programme start="20220428090000" stop="20220428093000" channel="IPE.tv">
+        <title lang="es">Los Cuentos de Chaski Internacional</title>
+        <desc lang="es">Los Cuentos de Chaski Internacional</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-chaski-bicentenario.jpg" />
+    </programme>
+    <programme start="20220428093000" stop="20220428100000" channel="IPE.tv">
+        <title lang="es">Pequeña Galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-galaxia.png" />
+    </programme>
+    <programme start="20220428100000" stop="20220428103000" channel="IPE.tv">
+        <title lang="es">Nada nos para</title>
+        <desc lang="es">Mario nos muestra en cada capítulo un nuevo deporte o disciplina física, a través de Nada nos para, que busca promover la diversión de moverse.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-nadanospara.png" />
+    </programme>
+    <programme start="20220428103000" stop="20220428110000" channel="IPE.tv">
+        <title lang="es">Mi hermana y sus libros</title>
+        <desc lang="es">¡Llegó el momento de descubrir más historias!</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-mi-hermana-y-sus-libros.jpg" />
+    </programme>
+    <programme start="20220428110000" stop="20220428113000" channel="IPE.tv">
+        <title lang="es">Acceso público</title>
+        <desc lang="es">Un nuevo espacio, magazine documental, con dos conductores llenos de curiosidad y muchas ganas de generar cambios en nuestro país.</desc>
+        <icon src="https://www.canalipe.tv/sites/default/files/web/app/img_interna/appinterna-acceso-publico.jpg" />
+    </programme>
+    <programme start="20220428113000" stop="20220428113000" channel="IPE.tv">
+        <title lang="es">Ciencia es Esencia</title>
+        <desc lang="es">Científicos peruanos nos explican sus descubrimientos y las causas detrás de los fenómenos naturales de una manera sencilla y entretenida.</desc>
+        <icon src="https://www.tvperu.gob.pe/sites/default/files/cienciaenesencia-app2.jpg" />
+    </programme>
+    <programme start="20220428053000" stop="20220428123000" channel="BethelTV.pe">
+        <title lang="es">Biblia 360</title>
+        <desc lang="es">Viaja a través de la historia. Aquí te entregamos una investigación completa sobre diferentes temas de las Sagradas Escrituras que definen nuestro origen y futuro.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_biblia-360_l_m.jpg" />
+    </programme>
+    <programme start="20220428063000" stop="20220428013000" channel="BethelTV.pe">
+        <title lang="es">Musicales</title>
+        <desc lang="es">Disfruta de un espacio con grandes dosis de entretenimiento, con una agenda musical variada a través de la cual podrás disfrutar de tus éxitos favoritos.</desc>
+        <category lang="es">Musical</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_musicales_l_m.jpg" />
+    </programme>
+    <programme start="20220428070000" stop="20220428020000" channel="BethelTV.pe">
+        <title lang="es">Esperanza de salvación</title>
+        <desc lang="es">Encuentra salvación en Jesús. Desde la ciudad de Madrid - España, el Reverendo Carlos Medina llega a tí, con el mensaje de esperanza que tanto anhela tu alma.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_esperanza-de-salvacion_l_m.jpg" />
+    </programme>
+    <programme start="20220428073000" stop="20220428023000" channel="BethelTV.pe">
+        <title lang="es">Hechos de fe</title>
+        <desc lang="es">Hechos que suceden cuando uno decide creer. Historias basadas en la vida real que muestran que los milagros sí existen.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechos-de-fe_l_m.jpg" />
+    </programme>
+    <programme start="20220428080000" stop="20220428030000" channel="BethelTV.pe">
+        <title lang="es">Esperanza de salvación</title>
+        <desc lang="es">Encuentra salvación en Jesús. Desde la ciudad de Madrid - España, el Reverendo Carlos Medina llega a tí, con el mensaje de esperanza que tanto anhela tu alma.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_esperanza-de-salvacion_l_m.jpg" />
+    </programme>
+    <programme start="20220428083000" stop="20220428033000" channel="BethelTV.pe">
+        <title lang="es">Historias animadas</title>
+        <desc lang="es" />
+        <category lang="es">Animación</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_historias-animadas_l_m.jpg" />
+    </programme>
+    <programme start="20220428090000" stop="20220428040000" channel="BethelTV.pe">
+        <title lang="es">Mi casa feliz</title>
+        <desc lang="es">Una casa con dos hermanos donde se vivirán ocurrencias e historias llenas de valores y que nos enseñarán a crecer en el temor a Dios.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mi-casa-feliz_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000" stop="20220428043000" channel="BethelTV.pe">
+        <title lang="es">Lo que Dios unió</title>
+        <desc lang="es">En un mundo donde se pierde el significado del matrimonio, nace este espacio que muestra la unión entre un hombre y una mujer, reflejando el amor y la pureza de un sacramento instituido por el Señor.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_lo-que-dios-unio_l_m.jpg" />
+    </programme>
+    <programme start="20220428103000" stop="20220428050000" channel="BethelTV.pe">
+        <title lang="es">Hablemos de salud</title>
+        <desc lang="es">Un programa que aborda diversas temáticas referidas al múndo de la medicina y la salud. Un equipo de profesionales analiza y comenta los últimos avances, brinda consejos e información sobre aptologías y mucho más.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hablemos-de-salud_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000" stop="20220428053000" channel="BethelTV.pe">
+        <title lang="es">Explosión de Gloria</title>
+        <desc lang="es">Segmento que imparte el mensaje de salvación, brindando esperanza, consuelo, restauración y el amor de Dios mediante vivencias y anécdotas de la vida cotidiana.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_explosion-de-gloria_l_m.jpg" />
+    </programme>
+    <programme start="20220428113000" stop="20220428060000" channel="BethelTV.pe">
+        <title lang="es">Biblia 360</title>
+        <desc lang="es">Viaja a través de la historia. Aquí te entregamos una investigación completa sobre diferentes temas de las Sagradas Escrituras que definen nuestro origen y futuro.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_biblia-360_l_m.jpg" />
+    </programme>
+    <programme start="20220428123000" stop="20220428063000" channel="BethelTV.pe">
+        <title lang="es">Melodías de vida</title>
+        <desc lang="es" />
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_melodias-de-vida-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428010000" stop="20220428073000" channel="BethelTV.pe">
+        <title lang="es">La hora de la transformación</title>
+        <desc lang="es">La hora de la transformación es un programa de enseñanzas bíblicas, que a través de las sagradas escrituras nos ayudan en el diario vivir, rescatando los valores sociales y poniendo a su alcance mensajes que transforman vidas.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-hora-de-la-transformacion_l_m.jpg" />
+    </programme>
+    <programme start="Invalid date" stop="20220428080000" channel="BethelTV.pe">
+        <title lang="es" />
+        <desc lang="es" />
+        <category lang="es" />
+        <icon src="" />
+    </programme>
+    <programme start="20220428020000" stop="20220428083000" channel="BethelTV.pe">
+        <title lang="es">Hechos de fe</title>
+        <desc lang="es">Hechos que suceden cuando uno decide creer. Historias basadas en la vida real que muestran que los milagros sí existen.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechos-de-fe_l_m.jpg" />
+    </programme>
+    <programme start="20220428023000" stop="20220428090000" channel="BethelTV.pe">
+        <title lang="es">Historias animadas</title>
+        <desc lang="es" />
+        <category lang="es">Animación</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_historias-animadas_l_m.jpg" />
+    </programme>
+    <programme start="20220428030000" stop="20220428093000" channel="BethelTV.pe">
+        <title lang="es">Mi casa feliz</title>
+        <desc lang="es">Una casa con dos hermanos donde se vivirán ocurrencias e historias llenas de valores y que nos enseñarán a crecer en el temor a Dios.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mi-casa-feliz_l_m.jpg" />
+    </programme>
+    <programme start="20220428033000" stop="20220428100000" channel="BethelTV.pe">
+        <title lang="es">Lo que Dios unió</title>
+        <desc lang="es">En un mundo donde se pierde el significado del matrimonio, nace este espacio que muestra la unión entre un hombre y una mujer, reflejando el amor y la pureza de un sacramento instituido por el Señor.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_lo-que-dios-unio_l_m.jpg" />
+    </programme>
+    <programme start="20220428040000" stop="20220428113000" channel="BethelTV.pe">
+        <title lang="es">Enseñanzas de vida</title>
+        <desc lang="es">Un mensaje de Dios para tu vida con el Rev. Humberto Henao.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_ensenanzas-de-vida_l_m.jpg" />
+    </programme>
+    <programme start="20220428050000" stop="20220428120000" channel="BethelTV.pe">
+        <title lang="es">Mi casa feliz</title>
+        <desc lang="es">Una casa con dos hermanos donde se vivirán ocurrencias e historias llenas de valores y que nos enseñarán a crecer en el temor a Dios.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mi-casa-feliz_l_m.jpg" />
+    </programme>
+    <programme start="20220428053000" stop="20220428123000" channel="BethelTV.pe">
+        <title lang="es">Hablemos de salud</title>
+        <desc lang="es">Un programa que aborda diversas temáticas referidas al múndo de la medicina y la salud. Un equipo de profesionales analiza y comenta los últimos avances, brinda consejos e información sobre aptologías y mucho más.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hablemos-de-salud_l_m.jpg" />
+    </programme>
+    <programme start="20220428060000" stop="20220428013000" channel="BethelTV.pe">
+        <title lang="es">Explosión de Gloria</title>
+        <desc lang="es">Segmento que imparte el mensaje de salvación, brindando esperanza, consuelo, restauración y el amor de Dios mediante vivencias y anécdotas de la vida cotidiana.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_explosion-de-gloria_l_m.jpg" />
+    </programme>
+    <programme start="20220428063000" stop="20220428020000" channel="BethelTV.pe">
+        <title lang="es">Biblia 360</title>
+        <desc lang="es">Viaja a través de la historia. Aquí te entregamos una investigación completa sobre diferentes temas de las Sagradas Escrituras que definen nuestro origen y futuro.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_biblia-360_l_m.jpg" />
+    </programme>
+    <programme start="20220428073000" stop="20220428023000" channel="BethelTV.pe">
+        <title lang="es">Melodías de vida</title>
+        <desc lang="es" />
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_melodias-de-vida-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428080000" stop="20220428030000" channel="BethelTV.pe">
+        <title lang="es">La hora de la transformación</title>
+        <desc lang="es">La hora de la transformación es un programa de enseñanzas bíblicas, que a través de las sagradas escrituras nos ayudan en el diario vivir, rescatando los valores sociales y poniendo a su alcance mensajes que transforman vidas.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-hora-de-la-transformacion_l_m.jpg" />
+    </programme>
+    <programme start="20220428093000" stop="20220428033000" channel="BethelTV.pe">
+        <title lang="es">Hechos de fe</title>
+        <desc lang="es">Hechos que suceden cuando uno decide creer. Historias basadas en la vida real que muestran que los milagros sí existen.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechos-de-fe_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000" stop="20220428040000" channel="BethelTV.pe">
+        <title lang="es">Melodías de vida</title>
+        <desc lang="es" />
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_melodias-de-vida-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428103000" stop="20220428053000" channel="BethelTV.pe">
+        <title lang="es">Lo que Dios unió</title>
+        <desc lang="es">En un mundo donde se pierde el significado del matrimonio, nace este espacio que muestra la unión entre un hombre y una mujer, reflejando el amor y la pureza de un sacramento instituido por el Señor.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_lo-que-dios-unio_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000" stop="20220428060000" channel="BethelTV.pe">
+        <title lang="es">Esperanza de salvación</title>
+        <desc lang="es">Encuentra salvación en Jesús. Desde la ciudad de Madrid - España, el Reverendo Carlos Medina llega a tí, con el mensaje de esperanza que tanto anhela tu alma.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_esperanza-de-salvacion_l_m.jpg" />
+    </programme>
+    <programme start="20220428113000" stop="20220428063000" channel="BethelTV.pe">
+        <title lang="es">Melodías de vida</title>
+        <desc lang="es" />
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_melodias-de-vida-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428120000" stop="20220428073000" channel="BethelTV.pe">
+        <title lang="es">Historias reales</title>
+        <desc lang="es">Historias de personas que han enfrentado situaciones extremas en medio de una sociedad crítica, y a pesar de la circunstancia lograron encontrar una salida en Dios. Dramatizadas por actores y presentadas por los verdaderos protagonistas.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_historias-reales_l_m.jpg" />
+    </programme>
+    <programme start="20220428123000" stop="20220428080000" channel="BethelTV.pe">
+        <title lang="es">Héroes de la fe</title>
+        <desc lang="es">Una serie en dibujos animados especialmente dedicados a los más pequeños. Cada episodio presenta el relato verídico de un héroe de la fe en la historia del cristianismo. Estos se remontan a épocas antiguas para exponer el ejemplo a seguir.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_heroes-de-la-fe-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428010000" stop="20220428083000" channel="BethelTV.pe">
+        <title lang="es">Momento de sentir</title>
+        <desc lang="es">Junto al Reverendo David Echalar, vive momentos únicos donde sentirás la presencia de Dios.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_momento-de-sentir_l_m.jpg" />
+    </programme>
+    <programme start="20220428020000" stop="20220428090000" channel="BethelTV.pe">
+        <title lang="es">Historias animadas</title>
+        <desc lang="es" />
+        <category lang="es">Animación</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_historias-animadas_l_m.jpg" />
+    </programme>
+    <programme start="20220428023000" stop="20220428093000" channel="BethelTV.pe">
+        <title lang="es">Mi casa feliz</title>
+        <desc lang="es">Una casa con dos hermanos donde se vivirán ocurrencias e historias llenas de valores y que nos enseñarán a crecer en el temor a Dios.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mi-casa-feliz_l_m.jpg" />
+    </programme>
+    <programme start="20220428033000" stop="20220428100000" channel="BethelTV.pe">
+        <title lang="es">Melodías de vida</title>
+        <desc lang="es" />
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_melodias-de-vida-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428040000" stop="20220428103000" channel="BethelTV.pe">
+        <title lang="es">Llamados</title>
+        <desc lang="es">Programa sobre hombres salvados y escogidos por Dios para llevar su palabra a diversas naciones. Los misioneros relatan su conversión, llamado, labor misionera y experiencias, incentivando en los panelistas la pasión por las misiones.</desc>
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_llamados_l_m.jpg" />
+    </programme>
+    <programme start="20220428050000" stop="20220428110000" channel="BethelTV.pe">
+        <title lang="es">Creacionismo</title>
+        <desc lang="es" />
+        <category lang="es">Religioso</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_creacionismo_l_m.jpg" />
+    </programme>
+    <programme start="20220428053000" stop="20220428113000" channel="BethelTV.pe">
+        <title lang="es">Héroes de la fe</title>
+        <desc lang="es">Una serie en dibujos animados especialmente dedicados a los más pequeños. Cada episodio presenta el relato verídico de un héroe de la fe en la historia del cristianismo. Estos se remontan a épocas antiguas para exponer el ejemplo a seguir.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_heroes-de-la-fe-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428060000 +0000" stop="20220428070000 +0000" channel="ATV.pe">
+        <title lang="es">Criminal Minds</title>
+        <desc lang="es">La UAC es una sección del FBI donde trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie.</desc>
+        <category lang="es">Policial</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_criminal-minds_l_m.jpg" />
+    </programme>
+    <programme start="20220428070000 +0000" stop="20220428100000 +0000" channel="ATV.pe">
+        <title lang="es">Ghost Whisperer</title>
+        <desc lang="es">Melinda se involucra con muertos y vivos en intentos, a veces espeluznantes, desgarradores o graciosos por servir de intermediaria entre los fantasmas y aquellos a quienes persiguen.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_ghost-whisperer_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000 +0000" stop="20220428110000 +0000" channel="ATV.pe">
+        <title lang="es">Canto Andino</title>
+        <desc lang="es">Empieza tu día con lo mejor del folklore de Perú, con la presentación de músicos e intérpretes, entrevistas y documentales bajo la conducción de Isaac Sarmiento y Celinda Vargas.</desc>
+        <category lang="es">Musical</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_canto-andino_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000 +0000" stop="20220428150000 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias edición matinal</title>
+        <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal_l_m.jpg" />
+    </programme>
+    <programme start="20220428150000 +0000" stop="20220428170000 +0000" channel="ATV.pe">
+        <title lang="es">La 3ra en discordia</title>
+        <desc lang="es">Rocío Sánchez Azuara, junto a un panel de expertos y testigos, debaten las problemáticas que traen los invitados, proponiendo una solución al conflicto.</desc>
+        <category lang="es">Reality Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-3ra-en-discordia_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428180000 +0000" channel="ATV.pe">
+        <title lang="es">Mujer, casos de la vida real</title>
+        <desc lang="es">Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mujer-casos-de-la-vida-real_l_m.jpg" />
+    </programme>
+    <programme start="20220428180000 +0000" stop="20220429003000 +0000" channel="ATV.pe">
+        <title lang="es">Entre el amor y el odio</title>
+        <desc lang="es">Rodeados de malas intenciones, Ana Cristina Robles y Octavio Villarreal tendrán que derribar las barreras que el destino les impone y superar el sufrimiento que los condena hasta llegar a su meta: estar juntos sin importar el pasado.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429003000 +0000" stop="20220429014500 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias al estilo Juliana</title>
+        <desc lang="es">Aquí se investiga, se cuestiona y se opina con fundamentos. Sigue lo mejor del acontecer nacional e internacional junto a Juliana Oxenford.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias-al-estilo-juliana_l_m.jpg" />
+    </programme>
+    <programme start="20220429014500 +0000" stop="20220429024500 +0000" channel="ATV.pe">
+        <title lang="es">Andrea</title>
+        <desc lang="es">Una mujer traicionada por la familia de su difunto esposo desea encontrar a su hijo. Ella buscará demostrar que su supuesta locura y delirio son parte de un plan de su macabro cuñado Julián para quedarse con su fortuna.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_andrea_l_m.jpg" />
+    </programme>
+    <programme start="20220429024500 +0000" stop="20220429040000 +0000" channel="ATV.pe">
+        <title lang="es">Magaly TV, la firme</title>
+        <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_magaly-tv-la-firme_l_m.jpg" />
+    </programme>
+    <programme start="20220429040000 +0000" stop="20220429045000 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias</title>
+        <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220429045000 +0000" stop="20220429055000 +0000" channel="ATV.pe">
+        <title lang="es">El Deportivo</title>
+        <desc lang="es">Espacio de horario nocturno que nos brinda toda la información del mundo del deporte nacional e internacional. Cuenta con el valor agregado de la sobriedad, vasta experiencia y credibilidad de Eddie Fleischman.</desc>
+        <category lang="es">El Deportivo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-el-deportivo-1_l_m.jpg" />
+    </programme>
+    <programme start="20220429060000 +0000" stop="20220429070000 +0000" channel="ATV.pe">
+        <title lang="es">Criminal Minds</title>
+        <desc lang="es">La UAC es una sección del FBI donde trabajan un grupo de perfiladores quienes se mueven por todo el territorio de los Estados Unidos para asesorar a las policías locales en la búsqueda y captura de los asesinos en serie.</desc>
+        <category lang="es">Policial</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_criminal-minds_l_m.jpg" />
+    </programme>
+    <programme start="20220429070000 +0000" stop="20220429100000 +0000" channel="ATV.pe">
+        <title lang="es">Ghost Whisperer</title>
+        <desc lang="es">Melinda se involucra con muertos y vivos en intentos, a veces espeluznantes, desgarradores o graciosos por servir de intermediaria entre los fantasmas y aquellos a quienes persiguen.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_ghost-whisperer_l_m.jpg" />
+    </programme>
+    <programme start="20220429100000 +0000" stop="20220429110000 +0000" channel="ATV.pe">
+        <title lang="es">Canto Andino</title>
+        <desc lang="es">Empieza tu día con lo mejor del folklore de Perú, con la presentación de músicos e intérpretes, entrevistas y documentales bajo la conducción de Isaac Sarmiento y Celinda Vargas.</desc>
+        <category lang="es">Musical</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_canto-andino_l_m.jpg" />
+    </programme>
+    <programme start="20220429110000 +0000" stop="20220429150000 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias edición matinal</title>
+        <desc lang="es">Disfrute de la mejor cobertura de las noticias locales e internacionales de la actualidad para mantenerse actualizado en todo momento.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias-edicion-matinal_l_m.jpg" />
+    </programme>
+    <programme start="20220429150000 +0000" stop="20220429170000 +0000" channel="ATV.pe">
+        <title lang="es">La 3ra en discordia</title>
+        <desc lang="es">Rocío Sánchez Azuara, junto a un panel de expertos y testigos, debaten las problemáticas que traen los invitados, proponiendo una solución al conflicto.</desc>
+        <category lang="es">Reality Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-3ra-en-discordia_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429180000 +0000" channel="ATV.pe">
+        <title lang="es">Mujer, casos de la vida real</title>
+        <desc lang="es">Relatos enviados por el público y seleccionados por Silvia Pinal, para ser dramatizados para su transmisión por artistas de primer orden. Por lo general tratan problemas relacionados con la mujer.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mujer-casos-de-la-vida-real_l_m.jpg" />
+    </programme>
+    <programme start="20220429180000 +0000" stop="20220430003000 +0000" channel="ATV.pe">
+        <title lang="es">Entre el amor y el odio</title>
+        <desc lang="es">Rodeados de malas intenciones, Ana Cristina Robles y Octavio Villarreal tendrán que derribar las barreras que el destino les impone y superar el sufrimiento que los condena hasta llegar a su meta: estar juntos sin importar el pasado.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220430003000 +0000" stop="20220430014500 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias al estilo Juliana</title>
+        <desc lang="es">Aquí se investiga, se cuestiona y se opina con fundamentos. Sigue lo mejor del acontecer nacional e internacional junto a Juliana Oxenford.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias-al-estilo-juliana_l_m.jpg" />
+    </programme>
+    <programme start="20220430014500 +0000" stop="20220430024500 +0000" channel="ATV.pe">
+        <title lang="es">Andrea</title>
+        <desc lang="es">Una mujer traicionada por la familia de su difunto esposo desea encontrar a su hijo. Ella buscará demostrar que su supuesta locura y delirio son parte de un plan de su macabro cuñado Julián para quedarse con su fortuna.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_andrea_l_m.jpg" />
+    </programme>
+    <programme start="20220430024500 +0000" stop="20220430040000 +0000" channel="ATV.pe">
+        <title lang="es">Magaly TV, la firme</title>
+        <desc lang="es">Espacio de entretenimiento y espectáculos para toda la familia. Magaly Medina regresó para meter en problemas a todos.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_magaly-tv-la-firme_l_m.jpg" />
+    </programme>
+    <programme start="20220430040000 +0000" stop="20220430045000 +0000" channel="ATV.pe">
+        <title lang="es">ATV Noticias</title>
+        <desc lang="es">Disfruta de los hechos más relevantes y actuales que la mejor unidad de investigación de la televisión peruana trae para ti. Con la mejor información y primicias que actúan como termómetro de la coyuntura mediática.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_atv-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220430045000 +0000" stop="20220430055000 +0000" channel="ATV.pe">
+        <title lang="es">El Deportivo</title>
+        <desc lang="es">Espacio de horario nocturno que nos brinda toda la información del mundo del deporte nacional e internacional. Cuenta con el valor agregado de la sobriedad, vasta experiencia y credibilidad de Eddie Fleischman.</desc>
+        <category lang="es">El Deportivo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-el-deportivo-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428060000 +0000" stop="20220428070000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428070000 +0000" stop="20220428080000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428080000 +0000" stop="20220428090000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428090000 +0000" stop="20220428100000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000 +0000" stop="20220428150000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Punto de vista</title>
+        <desc lang="es">Un espacio que ofrece una mirada a los acontecimientos ocurridos a diario en Perú.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_punto-de-vista_l_m.jpg" />
+    </programme>
+    <programme start="20220428150000 +0000" stop="20220428160000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Noticias al día</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticias-al-dia_l_m.jpg" />
+    </programme>
+    <programme start="20220428160000 +0000" stop="20220428170000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Noticias al día</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticias-al-dia_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428210000 +0000" channel="ATVPlus.pe">
+        <title lang="es">En contacto</title>
+        <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_en-contacto_l_m.jpg" />
+    </programme>
+    <programme start="20220428210000 +0000" stop="20220428213000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Deportes</title>
+        <category lang="es">+ Deportes</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticiero-deportes_l_m.jpg" />
+    </programme>
+    <programme start="20220428213000 +0000" stop="20220428230000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Q Noticias</title>
+        <desc lang="es">Noticias de Perú y el mundo, con las últimas novedades sobre actualidad, deportes y entretenimiento.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_q-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220428230000 +0000" stop="20220429020000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Estación central</title>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_estacion-central_l_m.jpg" />
+    </programme>
+    <programme start="20220429020000 +0000" stop="20220429033000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Punto de vista</title>
+        <desc lang="es">Un espacio que ofrece una mirada a los acontecimientos ocurridos a diario en Perú.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_punto-de-vista_l_m.jpg" />
+    </programme>
+    <programme start="20220429033000 +0000" stop="20220429040000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Deportes</title>
+        <category lang="es">+ Deportes</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticiero-deportes_l_m.jpg" />
+    </programme>
+    <programme start="20220429040000 +0000" stop="20220429050000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Estación central</title>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_estacion-central_l_m.jpg" />
+    </programme>
+    <programme start="20220429060000 +0000" stop="20220429070000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429070000 +0000" stop="20220429080000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429080000 +0000" stop="20220429090000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429090000 +0000" stop="20220429100000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429100000 +0000" stop="20220429150000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Punto de vista</title>
+        <desc lang="es">Un espacio que ofrece una mirada a los acontecimientos ocurridos a diario en Perú.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_punto-de-vista_l_m.jpg" />
+    </programme>
+    <programme start="20220429150000 +0000" stop="20220429160000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Noticias al día</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticias-al-dia_l_m.jpg" />
+    </programme>
+    <programme start="20220429160000 +0000" stop="20220429170000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Noticias al día</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticias-al-dia_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429210000 +0000" channel="ATVPlus.pe">
+        <title lang="es">En contacto</title>
+        <desc lang="es">Cobertura en profundidad de las últimas noticias y eventos relevantes.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_en-contacto_l_m.jpg" />
+    </programme>
+    <programme start="20220429210000 +0000" stop="20220429213000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Deportes</title>
+        <category lang="es">+ Deportes</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticiero-deportes_l_m.jpg" />
+    </programme>
+    <programme start="20220429213000 +0000" stop="20220429230000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Q Noticias</title>
+        <desc lang="es">Noticias de Perú y el mundo, con las últimas novedades sobre actualidad, deportes y entretenimiento.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_q-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220429230000 +0000" stop="20220430020000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Estación central</title>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_estacion-central_l_m.jpg" />
+    </programme>
+    <programme start="20220430020000 +0000" stop="20220430033000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Punto de vista</title>
+        <desc lang="es">Un espacio que ofrece una mirada a los acontecimientos ocurridos a diario en Perú.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_punto-de-vista_l_m.jpg" />
+    </programme>
+    <programme start="20220430033000 +0000" stop="20220430040000 +0000" channel="ATVPlus.pe">
+        <title lang="es">+ Deportes</title>
+        <category lang="es">+ Deportes</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_noticiero-deportes_l_m.jpg" />
+    </programme>
+    <programme start="20220430040000 +0000" stop="20220430050000 +0000" channel="ATVPlus.pe">
+        <title lang="es">Estación central</title>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_estacion-central_l_m.jpg" />
+    </programme>
+    <programme start="20220428060000 +0000" stop="20220428070000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Qué esta pasando?</title>
+        <desc lang="es">Manténgase informado sobre las noticias más importantes de la jornada con un formato diferente.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428070000 +0000" stop="20220428080000 +0000" channel="TVPeru.pe">
+        <title lang="es">En pared</title>
+        <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+        <category lang="es">En pared</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-en-pared_l_m.jpg" />
+    </programme>
+    <programme start="20220428080000 +0000" stop="20220428100000 +0000" channel="TVPeru.pe">
+        <title lang="es">Una y mil voces</title>
+        <desc lang="es">Las voces más prominentes del folclore del Perú se reúnen para honrar este género. El espectáculo es presentado por la reconocida cantante peruana Bartola, y presenta bailes y actuaciones de los mejores artistas.</desc>
+        <category lang="es">Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_una-y-mil-voces_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000 +0000" stop="20220428103000 +0000" channel="TVPeru.pe">
+        <title lang="es">Jiwasanaka</title>
+        <desc lang="es">Somos el primer noticiero en aimara de la televisión peruana dirigido principalmente a la población aimarahablante del Perú. Tenemos lo último de la información en esta lengua nativa.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_jiwasanaka_l_m.jpg" />
+    </programme>
+    <programme start="20220428103000 +0000" stop="20220428110000 +0000" channel="TVPeru.pe">
+        <title lang="es">Ñuqanchik</title>
+        <desc lang="es">Ñuqanchik es el primer noticiero hecho en quechua de la televisión nacional.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nuqanchik_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000 +0000" stop="20220428130000 +0000" channel="TVPeru.pe">
+        <title lang="es">TV Perú noticias matinal</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tv-peru-noticias-matinal_l_m.jpg" />
+    </programme>
+    <programme start="20220428130000 +0000" stop="20220428133000 +0000" channel="TVPeru.pe">
+        <title lang="es">Los cuentos de Chaski</title>
+        <desc lang="es">Mostrará en cada episodio una leyenda, mito o fábula de algún lugar de nuestro hermoso Perú. Cada lugar tiene muchas historias por contar y para que las descubramos, Chaski el zorro será el encargado de contarlas.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_los-cuentos-de-chaski_l_m.jpg" />
+    </programme>
+    <programme start="20220428133000 +0000" stop="20220428134000 +0000" channel="TVPeru.pe">
+        <title lang="es">Mono ve, mono hace</title>
+        <desc lang="es">Mono va por ahí conociendo a otros animales e imitando todo lo que hacen. Su personalidad juguetona le da muchos amigos. Este extrovertido personaje seguro hará que tú también te quieras parar de la silla ¡para cantar, bailar y jugar!</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mono-ve-mono-hace_l_m.jpg" />
+    </programme>
+    <programme start="20220428134000 +0000" stop="20220428135000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Neuroqué?</title>
+        <desc lang="es">Desde su curiosidad natural, esta niña de ocho años consulta a su tío, que intenta explicarle cómo funciona el cerebro aplicando las bases del método científico: pregunta, hipótesis, demostración empírica y conclusión.</desc>
+        <category lang="es">Educativo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_neuroque_l_m.jpg" />
+    </programme>
+    <programme start="20220428135000 +0000" stop="20220428140000 +0000" channel="TVPeru.pe">
+        <title lang="es">Asquerosamente rico</title>
+        <desc lang="es">El chef Giovanni, Marta la rata y Mirta la cucaracha enseñarán a preparar grandes recetas utilizando ingredientes saludables y nutritivos. Alimentos como la cebolla, la ahuyama o la espinaca serán los protagonistas de la serie.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_asquerosamente-rico_l_m.jpg" />
+    </programme>
+    <programme start="20220428140000 +0000" stop="20220428143000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: ¿Qué ha cambiado y qué permanece sobre el manejo y uso del agua?</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-que-ha-cambiado-y-que-permanece-sobre-el-manejo-y-uso-del-agua_l_m.jpg" />
+    </programme>
+    <programme start="20220428143000 +0000" stop="20220428150000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: Deliberamos sobre la discriminación en el Perú</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-deliberamos-sobre-la-discriminacion-en-el-peru_l_m.jpg" />
+    </programme>
+    <programme start="20220428150000 +0000" stop="20220428153000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: ¿Cómo contribuyen los pueblos originarios a través de su diversidad para el bien común?</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-como-contribuyen-los-pueblos-originarios-a-traves-de-su-diversidad-para-el-bien-comun_l_m.jpg" />
+    </programme>
+    <programme start="20220428153000 +0000" stop="20220428160000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: Participo en el juego de roles y reconozco mis emociones</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-participo-en-el-juego-de-roles-y-reconozco-mis-emociones_l_m.jpg" />
+    </programme>
+    <programme start="20220428160000 +0000" stop="20220428163000 +0000" channel="TVPeru.pe">
+        <title lang="es">Escuela de genios</title>
+        <category lang="es">Episodio 2 - Movimiento rectilíneo nada uniforme</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_escuela-de-genios-s00e02-movimiento-rectilineo-nada-uniforme_l_m.jpg" />
+    </programme>
+    <programme start="20220428163000 +0000" stop="20220428170000 +0000" channel="TVPeru.pe">
+        <title lang="es">Pequeña galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <category lang="es">Episodio 16 - Podemos revertir el calentamiento global</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428180000 +0000" channel="TVPeru.pe">
+        <title lang="es">Jiwasanaka / Ñuqanchik</title>
+        <desc lang="es">Noticieros en lenguas originarias.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_jiwasanaka-nuqanchik_l_m.jpg" />
+    </programme>
+    <programme start="20220428180000 +0000" stop="20220428190000 +0000" channel="TVPeru.pe">
+        <title lang="es">Tv Perú Noticias - Segunda edición</title>
+        <desc lang="es">Las últimas noticias en actualidad, deportes y entretenimiento del Perú y del Mundo, Temas de interés, videos, audios y entrevistas.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tv-peru-noticias-segunda-edicion_l_m.jpg" />
+    </programme>
+    <programme start="20220428190000 +0000" stop="20220428200000 +0000" channel="TVPeru.pe">
+        <title lang="es">Plano detalle</title>
+        <category lang="es">Variedades</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428200000 +0000" stop="20220428210000 +0000" channel="TVPeru.pe">
+        <title lang="es">Cuerpo médico</title>
+        <desc lang="es">Este programa tiene como objetivo promover el trinomio de la salud: prevención, alimentación saludable y el ejercicio, por medio de campañas, opiniones de especialistas y alternativas para ejercitarse desde casa.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cuerpo-medico_l_m.jpg" />
+    </programme>
+    <programme start="20220428210000 +0000" stop="20220428211000 +0000" channel="TVPeru.pe">
+        <title lang="es">Mono ve, mono hace</title>
+        <desc lang="es">Mono va por ahí conociendo a otros animales e imitando todo lo que hacen. Su personalidad juguetona le da muchos amigos. Este extrovertido personaje seguro hará que tú también te quieras parar de la silla ¡para cantar, bailar y jugar!</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mono-ve-mono-hace_l_m.jpg" />
+    </programme>
+    <programme start="20220428211000 +0000" stop="20220428212000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Neuroqué?</title>
+        <desc lang="es">Desde su curiosidad natural, esta niña de ocho años consulta a su tío, que intenta explicarle cómo funciona el cerebro aplicando las bases del método científico: pregunta, hipótesis, demostración empírica y conclusión.</desc>
+        <category lang="es">Educativo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_neuroque_l_m.jpg" />
+    </programme>
+    <programme start="20220428212000 +0000" stop="20220428213000 +0000" channel="TVPeru.pe">
+        <title lang="es">Asquerosamente rico</title>
+        <desc lang="es">El chef Giovanni, Marta la rata y Mirta la cucaracha enseñarán a preparar grandes recetas utilizando ingredientes saludables y nutritivos. Alimentos como la cebolla, la ahuyama o la espinaca serán los protagonistas de la serie.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_asquerosamente-rico_l_m.jpg" />
+    </programme>
+    <programme start="20220428213000 +0000" stop="20220428220000 +0000" channel="TVPeru.pe">
+        <title lang="es">Gimnasia rítmica</title>
+        <desc lang="es">Mario nos muestra en cada capítulo un nuevo deporte o disciplina física para promover la diversión de moverse.</desc>
+        <category lang="es">Nada nos para</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg" />
+    </programme>
+    <programme start="20220428220000 +0000" stop="20220428230000 +0000" channel="TVPeru.pe">
+        <title lang="es">Hecho a mano</title>
+        <desc lang="es">Almendra, Joaquín y Mirtha te enseñan a crear tu propio emprendimiento y ha llevarlo al siguiente nivel en el mundo digital.</desc>
+        <category lang="es">Manualidades</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hecho-a-mano_l_m.jpg" />
+    </programme>
+    <programme start="20220428230000 +0000" stop="20220429000000 +0000" channel="TVPeru.pe">
+        <title lang="es">Pukllaspa yachay / Aprende jugando</title>
+        <desc lang="es">Un espacio que a través del juego busca que el público adquiera conocimientos, capacidad lógica e intelecutal sobre la lengua quechua. Los concursantes se divertirán mientras apenden sobre sus raíces culturales.</desc>
+        <category lang="es">Juegos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429000000 +0000" stop="20220429010000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Qué esta pasando?</title>
+        <desc lang="es">Manténgase informado sobre las noticias más importantes de la jornada con un formato diferente.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429010000 +0000" stop="20220429020000 +0000" channel="TVPeru.pe">
+        <title lang="es">TVPerú noticias - Edición noche</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tvperu-noticias-edicion-noche_l_m.jpg" />
+    </programme>
+    <programme start="20220429020000 +0000" stop="20220429030000 +0000" channel="TVPeru.pe">
+        <title lang="es">En pared</title>
+        <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+        <category lang="es">En pared</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-en-pared_l_m.jpg" />
+    </programme>
+    <programme start="20220429030000 +0000" stop="20220429040000 +0000" channel="TVPeru.pe">
+        <title lang="es">Rimanchik hablemos</title>
+        <desc lang="es">Un programa que propone un análisis de la coyuntura nacional e internacional y sobre los temas relevantes de la actualidad. El conductor Carlos Cornejo propone un espacio de diálogo y reflexión para que el público se informe al completo.</desc>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_rimanchik-hablemos_l_m.jpg" />
+    </programme>
+    <programme start="20220429040000 +0000" stop="20220429050000 +0000" channel="TVPeru.pe">
+        <title lang="es">Congreso Noticias</title>
+        <desc lang="es">Programa producido por el Congreso de la República.</desc>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_congreso-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220429050000 +0000" stop="20220429060000 +0000" channel="TVPeru.pe">
+        <title lang="es">GeoMundo</title>
+        <desc lang="es">Francisco Belaúnde nos trae el análisis de las noticias de la política internacional y de los hechos que tienen alcance mundial.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_geomundo_l_m.jpg" />
+    </programme>
+    <programme start="20220429060000 +0000" stop="20220429070000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Qué esta pasando?</title>
+        <desc lang="es">Manténgase informado sobre las noticias más importantes de la jornada con un formato diferente.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429070000 +0000" stop="20220429080000 +0000" channel="TVPeru.pe">
+        <title lang="es">En pared</title>
+        <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+        <category lang="es">En pared</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-en-pared_l_m.jpg" />
+    </programme>
+    <programme start="20220429080000 +0000" stop="20220429100000 +0000" channel="TVPeru.pe">
+        <title lang="es">Una y mil voces</title>
+        <desc lang="es">Las voces más prominentes del folclore del Perú se reúnen para honrar este género. El espectáculo es presentado por la reconocida cantante peruana Bartola, y presenta bailes y actuaciones de los mejores artistas.</desc>
+        <category lang="es">Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_una-y-mil-voces_l_m.jpg" />
+    </programme>
+    <programme start="20220429100000 +0000" stop="20220429103000 +0000" channel="TVPeru.pe">
+        <title lang="es">Jiwasanaka</title>
+        <desc lang="es">Somos el primer noticiero en aimara de la televisión peruana dirigido principalmente a la población aimarahablante del Perú. Tenemos lo último de la información en esta lengua nativa.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_jiwasanaka_l_m.jpg" />
+    </programme>
+    <programme start="20220429103000 +0000" stop="20220429110000 +0000" channel="TVPeru.pe">
+        <title lang="es">Ñuqanchik</title>
+        <desc lang="es">Ñuqanchik es el primer noticiero hecho en quechua de la televisión nacional.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nuqanchik_l_m.jpg" />
+    </programme>
+    <programme start="20220429110000 +0000" stop="20220429130000 +0000" channel="TVPeru.pe">
+        <title lang="es">TV Perú noticias matinal</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tv-peru-noticias-matinal_l_m.jpg" />
+    </programme>
+    <programme start="20220429130000 +0000" stop="20220429133000 +0000" channel="TVPeru.pe">
+        <title lang="es">Los cuentos de Chaski</title>
+        <desc lang="es">Mostrará en cada episodio una leyenda, mito o fábula de algún lugar de nuestro hermoso Perú. Cada lugar tiene muchas historias por contar y para que las descubramos, Chaski el zorro será el encargado de contarlas.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_los-cuentos-de-chaski_l_m.jpg" />
+    </programme>
+    <programme start="20220429133000 +0000" stop="20220429134000 +0000" channel="TVPeru.pe">
+        <title lang="es">Mono ve, mono hace</title>
+        <desc lang="es">Mono va por ahí conociendo a otros animales e imitando todo lo que hacen. Su personalidad juguetona le da muchos amigos. Este extrovertido personaje seguro hará que tú también te quieras parar de la silla ¡para cantar, bailar y jugar!</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mono-ve-mono-hace_l_m.jpg" />
+    </programme>
+    <programme start="20220429134000 +0000" stop="20220429135000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Neuroqué?</title>
+        <desc lang="es">Desde su curiosidad natural, esta niña de ocho años consulta a su tío, que intenta explicarle cómo funciona el cerebro aplicando las bases del método científico: pregunta, hipótesis, demostración empírica y conclusión.</desc>
+        <category lang="es">Educativo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_neuroque_l_m.jpg" />
+    </programme>
+    <programme start="20220429135000 +0000" stop="20220429140000 +0000" channel="TVPeru.pe">
+        <title lang="es">Asquerosamente rico</title>
+        <desc lang="es">El chef Giovanni, Marta la rata y Mirta la cucaracha enseñarán a preparar grandes recetas utilizando ingredientes saludables y nutritivos. Alimentos como la cebolla, la ahuyama o la espinaca serán los protagonistas de la serie.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_asquerosamente-rico_l_m.jpg" />
+    </programme>
+    <programme start="20220429140000 +0000" stop="20220429143000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: Y tú, ¿cómo cuidas la naturaleza?</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-y-tu-como-cuidas-la-naturaleza_l_m.jpg" />
+    </programme>
+    <programme start="20220429143000 +0000" stop="20220429150000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: Divertibol Malabares</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-divertibol-malabares_l_m.jpg" />
+    </programme>
+    <programme start="20220429150000 +0000" stop="20220429153000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Tema: ¿Cómo aprovechamos los saberes de la comunidad para el desarrollo de una actividad productiva en igualdad de oportunidades?</desc>
+        <category lang="es">- Tema: ¿Cómo aprovechamos los saberes de la comunidad para el desarrollo de una actividad...</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-como-aprovechamos-los-saberes-de-la-comunidad-para-el-desarrollo-de-una-actividad_l_m.jpg" />
+    </programme>
+    <programme start="20220429153000 +0000" stop="20220429160000 +0000" channel="TVPeru.pe">
+        <title lang="es">Aprendo en casa</title>
+        <desc lang="es">Serie intructiva del MEP, donde diferentes maestros ayudan al estudiantado espectador en diferentes materiales. Tales como ciencias, estudios sociales, matemáticas e inglés</desc>
+        <category lang="es">- Tema: Creamos rimas y bailes divertidos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_aprendo-en-casa-tema-creamos-rimas-y-bailes-divertidos_l_m.jpg" />
+    </programme>
+    <programme start="20220429160000 +0000" stop="20220429163000 +0000" channel="TVPeru.pe">
+        <title lang="es">Escuela de genios</title>
+        <category lang="es">Episodio 3 - Una idea creativa</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_escuela-de-genios-s00e03_l_m.jpg" />
+    </programme>
+    <programme start="20220429163000 +0000" stop="20220429170000 +0000" channel="TVPeru.pe">
+        <title lang="es">Pequeña galaxia</title>
+        <desc lang="es">Gala junto a Caos nos enseñan información muy importante sobre ciencia y tecnología con experimentos divertidos.</desc>
+        <category lang="es">Episodio 17 - ¡Quiero ser activista!</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429180000 +0000" channel="TVPeru.pe">
+        <title lang="es">Jiwasanaka / Ñuqanchik</title>
+        <desc lang="es">Noticieros en lenguas originarias.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_jiwasanaka-nuqanchik_l_m.jpg" />
+    </programme>
+    <programme start="20220429180000 +0000" stop="20220429190000 +0000" channel="TVPeru.pe">
+        <title lang="es">Tv Perú Noticias - Segunda edición</title>
+        <desc lang="es">Las últimas noticias en actualidad, deportes y entretenimiento del Perú y del Mundo, Temas de interés, videos, audios y entrevistas.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tv-peru-noticias-segunda-edicion_l_m.jpg" />
+    </programme>
+    <programme start="20220429190000 +0000" stop="20220429200000 +0000" channel="TVPeru.pe">
+        <title lang="es">Plano detalle</title>
+        <category lang="es">Variedades</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429200000 +0000" stop="20220429210000 +0000" channel="TVPeru.pe">
+        <title lang="es">Cuerpo médico</title>
+        <desc lang="es">Este programa tiene como objetivo promover el trinomio de la salud: prevención, alimentación saludable y el ejercicio, por medio de campañas, opiniones de especialistas y alternativas para ejercitarse desde casa.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cuerpo-medico_l_m.jpg" />
+    </programme>
+    <programme start="20220429210000 +0000" stop="20220429211000 +0000" channel="TVPeru.pe">
+        <title lang="es">Mono ve, mono hace</title>
+        <desc lang="es">Mono va por ahí conociendo a otros animales e imitando todo lo que hacen. Su personalidad juguetona le da muchos amigos. Este extrovertido personaje seguro hará que tú también te quieras parar de la silla ¡para cantar, bailar y jugar!</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_mono-ve-mono-hace_l_m.jpg" />
+    </programme>
+    <programme start="20220429211000 +0000" stop="20220429212000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Neuroqué?</title>
+        <desc lang="es">Desde su curiosidad natural, esta niña de ocho años consulta a su tío, que intenta explicarle cómo funciona el cerebro aplicando las bases del método científico: pregunta, hipótesis, demostración empírica y conclusión.</desc>
+        <category lang="es">Educativo</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_neuroque_l_m.jpg" />
+    </programme>
+    <programme start="20220429212000 +0000" stop="20220429213000 +0000" channel="TVPeru.pe">
+        <title lang="es">Asquerosamente rico</title>
+        <desc lang="es">El chef Giovanni, Marta la rata y Mirta la cucaracha enseñarán a preparar grandes recetas utilizando ingredientes saludables y nutritivos. Alimentos como la cebolla, la ahuyama o la espinaca serán los protagonistas de la serie.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_asquerosamente-rico_l_m.jpg" />
+    </programme>
+    <programme start="20220429213000 +0000" stop="20220429220000 +0000" channel="TVPeru.pe">
+        <title lang="es">Danzas amazónicas</title>
+        <desc lang="es">Mario nos muestra en cada capítulo un nuevo deporte o disciplina física para promover la diversión de moverse.</desc>
+        <category lang="es">Nada nos para</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg" />
+    </programme>
+    <programme start="20220429220000 +0000" stop="20220429230000 +0000" channel="TVPeru.pe">
+        <title lang="es">Hecho a mano</title>
+        <desc lang="es">Almendra, Joaquín y Mirtha te enseñan a crear tu propio emprendimiento y ha llevarlo al siguiente nivel en el mundo digital.</desc>
+        <category lang="es">Manualidades</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hecho-a-mano_l_m.jpg" />
+    </programme>
+    <programme start="20220429230000 +0000" stop="20220430000000 +0000" channel="TVPeru.pe">
+        <title lang="es">Pukllaspa yachay / Aprende jugando</title>
+        <desc lang="es">Un espacio que a través del juego busca que el público adquiera conocimientos, capacidad lógica e intelecutal sobre la lengua quechua. Los concursantes se divertirán mientras apenden sobre sus raíces culturales.</desc>
+        <category lang="es">Juegos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220430000000 +0000" stop="20220430010000 +0000" channel="TVPeru.pe">
+        <title lang="es">¿Qué esta pasando?</title>
+        <desc lang="es">Manténgase informado sobre las noticias más importantes de la jornada con un formato diferente.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220430010000 +0000" stop="20220430020000 +0000" channel="TVPeru.pe">
+        <title lang="es">TVPerú noticias - Edición noche</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_tvperu-noticias-edicion-noche_l_m.jpg" />
+    </programme>
+    <programme start="20220430020000 +0000" stop="20220430030000 +0000" channel="TVPeru.pe">
+        <title lang="es">En pared</title>
+        <desc lang="es">Lucho Trisano y Joanna Boloña presentan las noticias más importantes de las distintas disciplinas deportivas.</desc>
+        <category lang="es">En pared</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-en-pared_l_m.jpg" />
+    </programme>
+    <programme start="20220430030000 +0000" stop="20220430040000 +0000" channel="TVPeru.pe">
+        <title lang="es">Rimanchik hablemos</title>
+        <desc lang="es">Un programa que propone un análisis de la coyuntura nacional e internacional y sobre los temas relevantes de la actualidad. El conductor Carlos Cornejo propone un espacio de diálogo y reflexión para que el público se informe al completo.</desc>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_rimanchik-hablemos_l_m.jpg" />
+    </programme>
+    <programme start="20220430040000 +0000" stop="20220430050000 +0000" channel="TVPeru.pe">
+        <title lang="es">Congreso Noticias</title>
+        <desc lang="es">Programa producido por el Congreso de la República.</desc>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_congreso-noticias_l_m.jpg" />
+    </programme>
+    <programme start="20220430050000 +0000" stop="20220430060000 +0000" channel="TVPeru.pe">
+        <title lang="es">GeoMundo</title>
+        <desc lang="es">Francisco Belaúnde nos trae el análisis de las noticias de la política internacional y de los hechos que tienen alcance mundial.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_geomundo_l_m.jpg" />
+    </programme>
+    <programme start="20220428050000 +0000" stop="20220428063000 +0000" channel="Latina.pe">
+        <title lang="es">Fruto prohibido</title>
+        <desc lang="es">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428063000 +0000" stop="20220428093000 +0000" channel="Latina.pe">
+        <title lang="es">Nutrissa</title>
+        <category lang="es">Publicidad</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrissa_l_m.jpg" />
+    </programme>
+    <programme start="20220428093000 +0000" stop="20220428100000 +0000" channel="Latina.pe">
+        <title lang="es">La rica Vicky</title>
+        <desc lang="es">Al morir su madre, la adolescente Vicky se va a vivir con su padre a la capital, donde su madrastra y su media hermana se dedican a hacerle la vida imposible. El amor llega a la vida de Vicky cuando conoce a un joven seductor y rico.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-rica-vicky_l_m.jpg" />
+    </programme>
+    <programme start="20220428100000 +0000" stop="20220428110000 +0000" channel="Latina.pe">
+        <title lang="es">Buenas nuevas</title>
+        <desc lang="es">Un noticiero dedicado a sacarle sonrisas al público al compartir las mejores noticias e iniciativas que se desarrollan en el Perú y el mundo. Un equipo periodístico presenta hechos agradables y acontecimientos alegres.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_buenas-nuevas_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000 +0000" stop="20220428120000 +0000" channel="Latina.pe">
+        <title lang="es">90 matinal nacional</title>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428120000 +0000" stop="20220428140000 +0000" channel="Latina.pe">
+        <title lang="es">90 Matinal</title>
+        <desc lang="es">Segmento informativo, en el cual te pondremos al día con los acontecimientos que cobran mayor importancia actualmente en Perú y fuera de sus fronteras.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_90-matinal_l_m.jpg" />
+    </programme>
+    <programme start="20220428140000 +0000" stop="20220428170000 +0000" channel="Latina.pe">
+        <title lang="es">Arriba mi gente</title>
+        <desc lang="es">Un magazine multiplataforma ofrecerá a los televidentes un espacio en vivo con todo lo que necesitan para comenzar bien su día. El público podrá disfrutar de secciones de entretenimiento, espectáculo, entrevistas exclusivas y más.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428193000 +0000" channel="Latina.pe">
+        <title lang="es">90 Mediodía</title>
+        <desc lang="es">Central informativa, con experiencia de más de una década, para llevar de manera creíble y veraz los hechos y acontecimientos que se desarrollan diariamente.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_90-mediodia_l_m.jpg" />
+    </programme>
+    <programme start="20220428193000 +0000" stop="20220428213000 +0000" channel="Latina.pe">
+        <title lang="es">Fruto prohibido</title>
+        <desc lang="es">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428213000 +0000" stop="20220428223000 +0000" channel="Latina.pe">
+        <title lang="es">Caso cerrado</title>
+        <desc lang="es">La abogada Ana María Polo está lista para enfrentarse a cualquier situación y resolver de una vez por todas cualquier polémica.</desc>
+        <category lang="es">Talk Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_caso-cerrado_l_m.jpg" />
+    </programme>
+    <programme start="20220428223000 +0000" stop="20220428233000 +0000" channel="Latina.pe">
+        <title lang="es">Madre</title>
+        <desc lang="es">Zeynep es una joven profesora que, al enterarse que una de sus alumnas, Melek, está sufriendo de maltratos por parte de su familia y es abandonada, toma la determinación de llevársela e iniciar una nueva vida junto a ella.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_madre_l_m.jpg" />
+    </programme>
+    <programme start="20220428233000 +0000" stop="20220429003000 +0000" channel="Latina.pe">
+        <title lang="es">Todo por mi familia</title>
+        <desc lang="es">Kadir, Omer, Asiye y Emel son cuatro hermanos que quedan huérfanos tras perder a sus padres.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429003000 +0000" stop="20220429013000 +0000" channel="Latina.pe">
+        <title lang="es">Medcezir</title>
+        <desc lang="es">Yaman es un joven y honesto trabajador que vive junto a su madre, hermano y padrastro en un barrio pobre de Estambul. Pero su vida cambiará por completo cuando - acusado de un robo que no cometió - conozca al exitoso abogado Selim Serez.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_medcezir_l_m.jpg" />
+    </programme>
+    <programme start="20220429013000 +0000" stop="20220429030000 +0000" channel="Latina.pe">
+        <title lang="es">Yo soy, nueva generación</title>
+        <desc lang="es">Niños y niñas buscan convertirse en los nuevos imitadores del Perú.</desc>
+        <category lang="es">Reality Show</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429030000 +0000" stop="20220429040000 +0000" channel="Latina.pe">
+        <title lang="es">Latina noticias - Edición central</title>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_latina-noticias-edicion-central_l_m.jpg" />
+    </programme>
+    <programme start="20220429040000 +0000" stop="20220429050000 +0000" channel="Latina.pe">
+        <title lang="es">El final del paraíso</title>
+        <desc lang="es">Catalina Santana, ahora convertida en la jefa de la DEA en Colombia, emprenderá una persecución en contra de un consorcio de mafiosos que pretenden inundar el mundo con una nueva droga sintética.</desc>
+        <category lang="es">Acción</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_el-final-del-paraiso_l_m.jpg" />
+    </programme>
+    <programme start="20220429050000 +0000" stop="20220429063000 +0000" channel="Latina.pe">
+        <title lang="es">Fruto prohibido</title>
+        <desc lang="es">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429050000 +0000" stop="20220429060000 +0000" channel="Latina.pe">
+        <title lang="es">Fruto prohibido</title>
+        <desc lang="es">Dos hermanas que se quieren mucho pero cuyos sueños son completamente diferentes. La vida de Yildiz cambia cuando conoce a Ender Argun, la reina de la sociedad.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429063000 +0000" stop="20220429093000 +0000" channel="Latina.pe">
+        <title lang="es">Nutrissa</title>
+        <category lang="es">Publicidad</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrissa_l_m.jpg" />
+    </programme>
+    <programme start="20220429093000 +0000" stop="20220429100000 +0000" channel="Latina.pe">
+        <title lang="es">La rica Vicky</title>
+        <desc lang="es">Al morir su madre, la adolescente Vicky se va a vivir con su padre a la capital, donde su madrastra y su media hermana se dedican a hacerle la vida imposible. El amor llega a la vida de Vicky cuando conoce a un joven seductor y rico.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-rica-vicky_l_m.jpg" />
+    </programme>
+    <programme start="20220429100000 +0000" stop="20220429120000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429120000 +0000" stop="20220429140000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429140000 +0000" stop="20220429170000 +0000" channel="Latina.pe">
+        <title lang="es">Arriba mi gente</title>
+        <desc lang="es">Un magazine multiplataforma ofrecerá a los televidentes un espacio en vivo con todo lo que necesitan para comenzar bien su día. El público podrá disfrutar de secciones de entretenimiento, espectáculo, entrevistas exclusivas y más.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429180000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429180000 +0000" stop="20220429200000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429200000 +0000" stop="20220429230000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429230000 +0000" stop="20220429233000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220429233000 +0000" stop="20220430003000 +0000" channel="Latina.pe">
+        <title lang="es">Todo por mi familia</title>
+        <desc lang="es">Kadir, Omer, Asiye y Emel son cuatro hermanos que quedan huérfanos tras perder a sus padres.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220430003000 +0000" stop="20220430013000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220430013000 +0000" stop="20220430053000 +0000" channel="Latina.pe">
+        <title lang="es">Cine Semana Santa</title>
+        <category lang="es">Película</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cine-semana-santa_l_m.jpg" />
+    </programme>
+    <programme start="20220430053000 +0000" stop="20220430063000 +0000" channel="Latina.pe">
+        <title lang="es">Ciudad belleza</title>
+        <category lang="es">Variedades</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+
+    <programme start="20220428060000 +0000" stop="20220428110000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428110000 +0000" stop="20220428150000 +0000" channel="WillaxTV.pe">
+        <title lang="es">PBO Digital</title>
+        <desc lang="es">Medio de comunicación digital enfocado en la actualidad del Perú y el mundo.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_pbo-digital_l_m.jpg" />
+    </programme>
+    <programme start="20220428150000 +0000" stop="20220428160000 +0000" channel="WillaxTV.pe">
+        <title lang="es">El Dr. Borda</title>
+        <desc lang="es">Todas sus consultas médicas son respondidas por los mejores y más destacados especialistas del país. Además de presentar novedosas secuencias donde se conocerán las nuevas tecnologías al servicio de la salud.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_el-dr-borda_l_m.jpg" />
+    </programme>
+    <programme start="20220428160000 +0000" stop="20220428163000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Un día en el Mall</title>
+        <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_un-dia-en-el-mall_l_m.jpg" />
+    </programme>
+    <programme start="20220428163000 +0000" stop="20220428170000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Hechizada</title>
+        <desc lang="es">Samantha es una bruja casada con Darrin, un publicista de Nueva York, que se propone dejar para siempre sus habilidades mágicas para vivir una vida como los mortales con su marido.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechizada_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428173000 +0000" channel="WillaxTV.pe">
+        <title lang="es">¿Quién es el jefe?</title>
+        <desc lang="es">Tony Micelli es un antiguo jugador de béisbol profesional que se muda con su hija adolescente a Connecticut. Allí, trabajará como "mucamo" del hogar de Angela Bower, una ejecutiva que vive con su hijo y su alocada madre.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428173000 +0000" stop="20220428185000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax noticias</title>
+        <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428185000 +0000" stop="20220428211000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Amor y fuego</title>
+        <desc lang="es">Rodrigo González y Gigi Mitre comentan las últimas noticias de espectáculos y entretenimiento, con toda la diversión y picardía que los caracteriza.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_amor-y-fuego_l_m.jpg" />
+    </programme>
+    <programme start="20220428211000 +0000" stop="20220428214500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Un día en el Mall</title>
+        <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_un-dia-en-el-mall_l_m.jpg" />
+    </programme>
+    <programme start="20220428214500 +0000" stop="20220428221000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Supercampeones</title>
+        <desc lang="es">La historia de un muchacho que quiere convertirse en una estrella de fútbol y tiene todas las condiciones para lograrlo. Un hecho casual hace que el joven Oliver Aton se cruce con un ex futbolista que decide entrenarlo.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_supercampeones_l_m.jpg" />
+    </programme>
+    <programme start="20220428221000 +0000" stop="20220428232500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Abrazo de gol</title>
+        <desc lang="es">Mira Abrazo de Gol, el programa especial del suplemento deportivo de Crónica TV con todo sobre fútbol nacional e internacional.</desc>
+        <category lang="es">Abrazo de gol</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_futbol-abrazo-de-gol_l_m.jpg" />
+    </programme>
+    <programme start="20220428232500 +0000" stop="20220428235000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Hechizada</title>
+        <desc lang="es">Samantha es una bruja casada con Darrin, un publicista de Nueva York, que se propone dejar para siempre sus habilidades mágicas para vivir una vida como los mortales con su marido.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechizada_l_m.jpg" />
+    </programme>
+    <programme start="20220428235000 +0000" stop="20220429005500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax noticias</title>
+        <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429005500 +0000" stop="20220429015500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Milagros Leiva. Entrevista</title>
+        <desc lang="es">Una de las mejores periodistas del país vuelve al formato que más le gusta: la entrevista. A su fiel estilo, promete sacar más de una picante y reveladora declaración a sus invitados políticos y del acontecer nacional.</desc>
+        <category lang="es">Entrevista</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_milagros-leiva-entrevista_l_m.jpg" />
+    </programme>
+    <programme start="20220429015500 +0000" stop="20220429030000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Beto a saber</title>
+        <desc lang="es">Disfrute en este espacio de entrevistas políticas y otras sorpresas relacionadas con el humor.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_beto-a-saber_l_m.jpg" />
+    </programme>
+    <programme start="20220429030000 +0000" stop="20220429030500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Yo caviar</title>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_yo-caviar_l_m.jpg" />
+    </programme>
+    <programme start="20220429030500 +0000" stop="20220429040500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Combutters</title>
+        <desc lang="es">Desde un sótano, simulando un centro de control y laboratorio, Phillips Butters maquinará todas sus ideas y recibirá a sus invitados. No dudamos que nos traerá más de una sorpresa con sus irreverentes comentarios.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_combutters_l_m.jpg" />
+    </programme>
+    <programme start="20220429040500 +0000" stop="20220429041000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Camotillo, el tinterillo</title>
+        <desc lang="es">Microprograma de humor político, sátira y de actualidad al estilo Camotillo, el tinterillo.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_camotillo-el-tinterillo_l_m.jpg" />
+    </programme>
+    <programme start="20220429041000 +0000" stop="20220429050000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax Deporte</title>
+        <desc lang="es">Espacio de analisis deporitvos, comentarios y entrevistas</desc>
+        <category lang="es">Willax Deporte</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-willax-deporte_l_m.jpg" />
+    </programme>
+    <programme start="20220429050000 +0000" stop="20220429060000 +0000" channel="WillaxTV.pe">
+        <title lang="es">La milenaria</title>
+        <desc lang="es">Sorpréndete con las propiedades nutritivas que nos brindan los alimentos oriundos del Perú y Sudamérica. Conoce lo mejor de la medicina natural y el tratamiento holístico en La Milenaria.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-milenaria_l_m.jpg" />
+    </programme>
+    <programme start="20220429060000 +0000" stop="20220429110000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429110000 +0000" stop="20220429150000 +0000" channel="WillaxTV.pe">
+        <title lang="es">PBO Digital</title>
+        <desc lang="es">Medio de comunicación digital enfocado en la actualidad del Perú y el mundo.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_pbo-digital_l_m.jpg" />
+    </programme>
+    <programme start="20220429150000 +0000" stop="20220429160000 +0000" channel="WillaxTV.pe">
+        <title lang="es">El Dr. Borda</title>
+        <desc lang="es">Todas sus consultas médicas son respondidas por los mejores y más destacados especialistas del país. Además de presentar novedosas secuencias donde se conocerán las nuevas tecnologías al servicio de la salud.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_el-dr-borda_l_m.jpg" />
+    </programme>
+    <programme start="20220429160000 +0000" stop="20220429163000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Un día en el Mall</title>
+        <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_un-dia-en-el-mall_l_m.jpg" />
+    </programme>
+    <programme start="20220429163000 +0000" stop="20220429170000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Hechizada</title>
+        <desc lang="es">Samantha es una bruja casada con Darrin, un publicista de Nueva York, que se propone dejar para siempre sus habilidades mágicas para vivir una vida como los mortales con su marido.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechizada_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429173000 +0000" channel="WillaxTV.pe">
+        <title lang="es">¿Quién es el jefe?</title>
+        <desc lang="es">Tony Micelli es un antiguo jugador de béisbol profesional que se muda con su hija adolescente a Connecticut. Allí, trabajará como "mucamo" del hogar de Angela Bower, una ejecutiva que vive con su hijo y su alocada madre.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429173000 +0000" stop="20220429185000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax noticias</title>
+        <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429185000 +0000" stop="20220429211000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Amor y fuego</title>
+        <desc lang="es">Rodrigo González y Gigi Mitre comentan las últimas noticias de espectáculos y entretenimiento, con toda la diversión y picardía que los caracteriza.</desc>
+        <category lang="es">Entretenimientos</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_amor-y-fuego_l_m.jpg" />
+    </programme>
+    <programme start="20220429211000 +0000" stop="20220429214500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Un día en el Mall</title>
+        <desc lang="es">Descubre los mejores consejos en moda, familia, salud, belleza y tips para el hogar que te ayudarán a llevar un mejor estilo de vida de una forma entretenida y divertida, y además cada día te sorprenderá con un invitado especial.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_un-dia-en-el-mall_l_m.jpg" />
+    </programme>
+    <programme start="20220429214500 +0000" stop="20220429221000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Supercampeones</title>
+        <desc lang="es">La historia de un muchacho que quiere convertirse en una estrella de fútbol y tiene todas las condiciones para lograrlo. Un hecho casual hace que el joven Oliver Aton se cruce con un ex futbolista que decide entrenarlo.</desc>
+        <category lang="es">Infantil</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_supercampeones_l_m.jpg" />
+    </programme>
+    <programme start="20220429221000 +0000" stop="20220429232500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Abrazo de gol</title>
+        <desc lang="es">Mira Abrazo de Gol, el programa especial del suplemento deportivo de Crónica TV con todo sobre fútbol nacional e internacional.</desc>
+        <category lang="es">Abrazo de gol</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_futbol-abrazo-de-gol_l_m.jpg" />
+    </programme>
+    <programme start="20220429232500 +0000" stop="20220429235000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Hechizada</title>
+        <desc lang="es">Samantha es una bruja casada con Darrin, un publicista de Nueva York, que se propone dejar para siempre sus habilidades mágicas para vivir una vida como los mortales con su marido.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_hechizada_l_m.jpg" />
+    </programme>
+    <programme start="20220429235000 +0000" stop="20220430005500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax noticias</title>
+        <desc lang="es">Un programa que aborda los hechos más destacados de la agenda de noticias nacional e internacional. Un equipo de periodistas analiza los acontecimientos diarios para que el público se informe al completo.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220430005500 +0000" stop="20220430015500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Milagros Leiva. Entrevista</title>
+        <desc lang="es">Una de las mejores periodistas del país vuelve al formato que más le gusta: la entrevista. A su fiel estilo, promete sacar más de una picante y reveladora declaración a sus invitados políticos y del acontecer nacional.</desc>
+        <category lang="es">Entrevista</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_milagros-leiva-entrevista_l_m.jpg" />
+    </programme>
+    <programme start="20220430015500 +0000" stop="20220430030000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Beto a saber</title>
+        <desc lang="es">Disfrute en este espacio de entrevistas políticas y otras sorpresas relacionadas con el humor.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_beto-a-saber_l_m.jpg" />
+    </programme>
+    <programme start="20220430030000 +0000" stop="20220430030500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Yo caviar</title>
+        <category lang="es">Político</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_yo-caviar_l_m.jpg" />
+    </programme>
+    <programme start="20220430030500 +0000" stop="20220430040500 +0000" channel="WillaxTV.pe">
+        <title lang="es">Combutters</title>
+        <desc lang="es">Desde un sótano, simulando un centro de control y laboratorio, Phillips Butters maquinará todas sus ideas y recibirá a sus invitados. No dudamos que nos traerá más de una sorpresa con sus irreverentes comentarios.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_combutters_l_m.jpg" />
+    </programme>
+    <programme start="20220430040500 +0000" stop="20220430041000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Camotillo, el tinterillo</title>
+        <desc lang="es">Microprograma de humor político, sátira y de actualidad al estilo Camotillo, el tinterillo.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_camotillo-el-tinterillo_l_m.jpg" />
+    </programme>
+    <programme start="20220430041000 +0000" stop="20220430050000 +0000" channel="WillaxTV.pe">
+        <title lang="es">Willax Deporte</title>
+        <desc lang="es">Espacio de analisis deporitvos, comentarios y entrevistas</desc>
+        <category lang="es">Willax Deporte</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_deportivo-willax-deporte_l_m.jpg" />
+    </programme>
+    <programme start="20220430050000 +0000" stop="20220430060000 +0000" channel="WillaxTV.pe">
+        <title lang="es">La milenaria</title>
+        <desc lang="es">Sorpréndete con las propiedades nutritivas que nos brindan los alimentos oriundos del Perú y Sudamérica. Conoce lo mejor de la medicina natural y el tratamiento holístico en La Milenaria.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_la-milenaria_l_m.jpg" />
+    </programme>
+    <programme start="20220428053000 +0000" stop="20220428094500 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220428094500 +0000" stop="20220428101500 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Secretos de familia</title>
+        <desc lang="es">Kemal Ipekçi es un hombre de negocios que tuvo dos hijos con el amor de juventud,Nilgün, de los que nada sabe su esposa, Suzan, con quien tiene un hijo e hija enEstambul. Años después, una tragedia hará que sus dos familias se conozcan.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_secretos-de-familia_l_m.jpg" />
+    </programme>
+    <programme start="20220428101500 +0000" stop="20220428113000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Buenos días, Perú - Primera edición</title>
+        <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-primera-edicion-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428113000 +0000" stop="20220428143000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Buenos días, Perú - Segunda edición</title>
+        <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-segunda-edicion-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428143000 +0000" stop="20220428153000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Quality Products</title>
+        <desc lang="es">Con más de 20 años brindándote soluciones prácticas e innovadoras en salud, belleza, fitness, cocina y hogar, te traemos una selección de nuestros mejores productos para que puedas adquirirlos de la forma más segura y cómoda posible.</desc>
+        <category lang="es">Publicidad</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428153000 +0000" stop="20220428170000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">D'mañana</title>
+        <desc lang="es">Magazine de información y entretenimiento con mucha música, recetas de cocina y consejos de salud. Además, se habla sobre belleza, horóscopo e información útil para la gente que tiene mascotas.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_d-manana_l_m.jpg" />
+    </programme>
+    <programme start="20220428170000 +0000" stop="20220428200000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">24 horas - Edición mediodía</title>
+        <desc lang="es">Las últimas novedades con un estilo fresco y dinámico, sucesos, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde, con un toque informativo, serio e imparcial.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_24-horas-edicion-mediodia-1_l_m.jpg" />
+    </programme>
+    <programme start="20220428200000 +0000" stop="20220428213000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Dilo fuerte</title>
+        <desc lang="es">Espacio donde tus denuncias vuelven a ser escuchadas, que aborda casos sociales de gran impacto e historias que conmueven a todos.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_dilo-fuerte_l_m.jpg" />
+    </programme>
+    <programme start="20220428213000 +0000" stop="20220428230000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Silsila - La sombra del pasado</title>
+        <desc lang="es">Una preciosa cascada que se encuentra en los terrenos del Santuario es la manzana de la discordia entre dos familias. Así comienza una serie de enredos por el territorio, disputas familiares, secretos revelados y una historia de amor.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220428230000 +0000" stop="20220429003000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Cennet</title>
+        <desc lang="es">Cennet, una joven abandonada por su madre desde muy pequeña, logra superar los obstáculos y convertirse en arquitecta. Cuando ingresa a trabajar en una exitosa empreas, allí se reencuentra con Selim, un amigo de la infancia.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cennet_l_m.jpg" />
+    </programme>
+    <programme start="20220429003000 +0000" stop="20220429013000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Los mejores documentales</title>
+        <desc lang="es">Recopilación de materiales audiovisuales que resumen documentalmente historias, hechos, personajes y momentos, desarrollados y basados en la investigación de pruebas y antecedentes.</desc>
+        <category lang="es">Documental</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_los-mejores-documentales_l_m.jpg" />
+    </programme>
+    <programme start="20220429013000 +0000" stop="20220429030000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">24 horas - Edición central</title>
+        <desc lang="es">Noticias, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde. Con la seriedad y objetividad de la fuerza informativa de Panamericana.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_24-horas-edicion-central-1_l_m.jpg" />
+    </programme>
+    <programme start="20220429030000 +0000" stop="20220429040000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">2022 en 24 horas</title>
+        <desc lang="es">Espacio periodístico que ofrece el análisis en profundidad de las noticias del día, primicias y entrevistas políticas con los principales protagonistas de los hechos. Mávila Huertas va en búsqueda de la verdad y sin censura.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_2022-en-24-horas_l_m.jpg" />
+    </programme>
+    <programme start="20220429040000 +0000" stop="20220429050000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Por Dios y por la plata</title>
+        <desc lang="es">Espacio lleno del humor negro que lo caracteriza al comediante Carlos Galdós, en torno a los temas políticos que estan en agenda.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_por-dios-y-por-la-plata_l_m.jpg" />
+    </programme>
+    <programme start="20220429050000 +0000" stop="20220429053000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Prófugas del destino</title>
+        <desc lang="es">Tres mujeres encarceladas injustamente escapan en medio de un motín y en su huida coinciden con el accidente de unas monjas que les da la posibilidad de sobrevivir al hacerse pasar por ellas.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_profugas-del-destino_l_m.jpg" />
+    </programme>
+    <programme start="20220429053000 +0000" stop="20220429094500 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429053000 +0000" stop="20220429063000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
+    <programme start="20220429094500 +0000" stop="20220429101500 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Secretos de familia</title>
+        <desc lang="es">Kemal Ipekçi es un hombre de negocios que tuvo dos hijos con el amor de juventud,Nilgün, de los que nada sabe su esposa, Suzan, con quien tiene un hijo e hija enEstambul. Años después, una tragedia hará que sus dos familias se conozcan.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_secretos-de-familia_l_m.jpg" />
+    </programme>
+    <programme start="20220429101500 +0000" stop="20220429113000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Buenos días, Perú - Primera edición</title>
+        <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-primera-edicion-1_l_m.jpg" />
+    </programme>
+    <programme start="20220429113000 +0000" stop="20220429143000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Buenos días, Perú - Segunda edición</title>
+        <desc lang="es">La mejor información para empezar el día, los sucesos más impactantes de la jornada diaria, acompañados de entrevistas, enlaces en vivo y los mejores informes especiales en este espacio.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_buenos-dias-peru-segunda-edicion-1_l_m.jpg" />
+    </programme>
+    <programme start="20220429143000 +0000" stop="20220429153000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Quality Products</title>
+        <desc lang="es">Con más de 20 años brindándote soluciones prácticas e innovadoras en salud, belleza, fitness, cocina y hogar, te traemos una selección de nuestros mejores productos para que puedas adquirirlos de la forma más segura y cómoda posible.</desc>
+        <category lang="es">Publicidad</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429153000 +0000" stop="20220429170000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">D'mañana</title>
+        <desc lang="es">Magazine de información y entretenimiento con mucha música, recetas de cocina y consejos de salud. Además, se habla sobre belleza, horóscopo e información útil para la gente que tiene mascotas.</desc>
+        <category lang="es">Magazine</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_d-manana_l_m.jpg" />
+    </programme>
+    <programme start="20220429170000 +0000" stop="20220429200000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">24 horas - Edición mediodía</title>
+        <desc lang="es">Las últimas novedades con un estilo fresco y dinámico, sucesos, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde, con un toque informativo, serio e imparcial.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_24-horas-edicion-mediodia-1_l_m.jpg" />
+    </programme>
+    <programme start="20220429200000 +0000" stop="20220429213000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Dilo fuerte</title>
+        <desc lang="es">Espacio donde tus denuncias vuelven a ser escuchadas, que aborda casos sociales de gran impacto e historias que conmueven a todos.</desc>
+        <category lang="es">Interés general</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_dilo-fuerte_l_m.jpg" />
+    </programme>
+    <programme start="20220429213000 +0000" stop="20220429230000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Silsila - La sombra del pasado</title>
+        <desc lang="es">Una preciosa cascada que se encuentra en los terrenos del Santuario es la manzana de la discordia entre dos familias. Así comienza una serie de enredos por el territorio, disputas familiares, secretos revelados y una historia de amor.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg" />
+    </programme>
+    <programme start="20220429230000 +0000" stop="20220430003000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Cennet</title>
+        <desc lang="es">Cennet, una joven abandonada por su madre desde muy pequeña, logra superar los obstáculos y convertirse en arquitecta. Cuando ingresa a trabajar en una exitosa empreas, allí se reencuentra con Selim, un amigo de la infancia.</desc>
+        <category lang="es">Drama</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_cennet_l_m.jpg" />
+    </programme>
+    <programme start="20220430003000 +0000" stop="20220430013000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Los mejores documentales</title>
+        <desc lang="es">Recopilación de materiales audiovisuales que resumen documentalmente historias, hechos, personajes y momentos, desarrollados y basados en la investigación de pruebas y antecedentes.</desc>
+        <category lang="es">Documental</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_los-mejores-documentales_l_m.jpg" />
+    </programme>
+    <programme start="20220430013000 +0000" stop="20220430030000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">24 horas - Edición central</title>
+        <desc lang="es">Noticias, espectáculos, tecnología y todo lo que usted quiere ver para comenzar la tarde. Con la seriedad y objetividad de la fuerza informativa de Panamericana.</desc>
+        <category lang="es">Noticiero</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_24-horas-edicion-central-1_l_m.jpg" />
+    </programme>
+    <programme start="20220430030000 +0000" stop="20220430040000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">2022 en 24 horas</title>
+        <desc lang="es">Espacio periodístico que ofrece el análisis en profundidad de las noticias del día, primicias y entrevistas políticas con los principales protagonistas de los hechos. Mávila Huertas va en búsqueda de la verdad y sin censura.</desc>
+        <category lang="es">Periodístico</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_2022-en-24-horas_l_m.jpg" />
+    </programme>
+    <programme start="20220430040000 +0000" stop="20220430050000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Por Dios y por la plata</title>
+        <desc lang="es">Espacio lleno del humor negro que lo caracteriza al comediante Carlos Galdós, en torno a los temas políticos que estan en agenda.</desc>
+        <category lang="es">Comedia</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_por-dios-y-por-la-plata_l_m.jpg" />
+    </programme>
+    <programme start="20220430050000 +0000" stop="20220430053000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Prófugas del destino</title>
+        <desc lang="es">Tres mujeres encarceladas injustamente escapan en medio de un motín y en su huida coinciden con el accidente de unas monjas que les da la posibilidad de sobrevivir al hacerse pasar por ellas.</desc>
+        <category lang="es">Telenovela</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_profugas-del-destino_l_m.jpg" />
+    </programme>
+    <programme start="20220430053000 +0000" stop="20220430063000 +0000" channel="PanamericanaTV.pe">
+        <title lang="es">Nutrisa</title>
+        <desc lang="es">Toda la información sobre los tratamientos naturales que Nutrisa tiene para mejor la salud de las familias.</desc>
+        <category lang="es">Salud</category>
+        <icon src="https://cdn.mitvstatic.com/programs/pe_nutrisa_l_m.jpg" />
+    </programme>
 </tv>
